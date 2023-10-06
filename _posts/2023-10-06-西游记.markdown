@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "西游记11111"
+date:   2023-10-06 16:55:39 +0800
+categories: 吴承恩
+---
+啊沙发沙发是告诉对方[jekyll-docs]
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
